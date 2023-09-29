@@ -1,0 +1,58 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "/media/admin/DataM2/Projects/Personal/PLC_Module/Mega/include",
+                "/media/admin/DataM2/Projects/Personal/PLC_Module/Mega/src",
+                "/media/admin/DataM2/Projects/Personal/PLC_Module/Mega/.pio/libdeps/megaatmega2560/LiquidCrystal/src",
+                "/home/admin/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "/home/admin/.platformio/packages/framework-arduino-avr/variants/mega",
+                "/home/admin/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "/home/admin/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "/home/admin/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "/home/admin/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                "/home/admin/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/media/admin/DataM2/Projects/Personal/PLC_Module/Mega/include",
+                    "/media/admin/DataM2/Projects/Personal/PLC_Module/Mega/src",
+                    "/media/admin/DataM2/Projects/Personal/PLC_Module/Mega/.pio/libdeps/megaatmega2560/LiquidCrystal/src",
+                    "/home/admin/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "/home/admin/.platformio/packages/framework-arduino-avr/variants/mega",
+                    "/home/admin/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "/home/admin/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "/home/admin/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "/home/admin/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    "/home/admin/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60111",
+                "ARDUINO_AVR_MEGA2560",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega2560__",
+                ""
+            ],
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++11",
+            "compilerPath": "/home/admin/.platformio/packages/toolchain-atmelavr/bin/avr-gcc",
+            "compilerArgs": [
+                "-mmcu=atmega2560",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
