@@ -7,7 +7,8 @@ enum Buttons {
     BtnLeft,
     BtnRight,
     BtnSelect,
-    BtnNone
+    BtnReset,
+    BtnNone,
 };
 
 #endif
