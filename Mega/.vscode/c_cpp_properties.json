@@ -10,10 +10,10 @@
             "includePath": [
                 "/media/admin/DataM2/Projects/Personal/PLC_Module/Mega/include",
                 "/media/admin/DataM2/Projects/Personal/PLC_Module/Mega/src",
+                "/home/admin/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                 "/media/admin/DataM2/Projects/Personal/PLC_Module/Mega/.pio/libdeps/megaatmega2560/LiquidCrystal/src",
                 "/home/admin/.platformio/packages/framework-arduino-avr/cores/arduino",
                 "/home/admin/.platformio/packages/framework-arduino-avr/variants/mega",
-                "/home/admin/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                 "/home/admin/.platformio/packages/framework-arduino-avr/libraries/HID/src",
                 "/home/admin/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
                 "/home/admin/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
@@ -25,10 +25,10 @@
                 "path": [
                     "/media/admin/DataM2/Projects/Personal/PLC_Module/Mega/include",
                     "/media/admin/DataM2/Projects/Personal/PLC_Module/Mega/src",
+                    "/home/admin/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                     "/media/admin/DataM2/Projects/Personal/PLC_Module/Mega/.pio/libdeps/megaatmega2560/LiquidCrystal/src",
                     "/home/admin/.platformio/packages/framework-arduino-avr/cores/arduino",
                     "/home/admin/.platformio/packages/framework-arduino-avr/variants/mega",
-                    "/home/admin/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                     "/home/admin/.platformio/packages/framework-arduino-avr/libraries/HID/src",
                     "/home/admin/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
                     "/home/admin/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",

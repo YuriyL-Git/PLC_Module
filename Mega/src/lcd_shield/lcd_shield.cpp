@@ -1,5 +1,9 @@
 #include <Arduino.h>
-#include "definitions.h"
+#include "settings/settings.h"
+#include "definitions/definitions.h"
+#include "LiquidCrystal.h"
+
+LiquidCrystal lcd = LiquidCrystal(8, 9, 4, 5, 6, 7);
 
 
 int readButtons() {
